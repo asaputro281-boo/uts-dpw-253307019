@@ -1,3 +1,3 @@
-Nama  : Angga Dwi Saputro
-NIM   : 253307
+Nama  : skbkdsb
+NIM   : 253307019
 Kelas : 2A
