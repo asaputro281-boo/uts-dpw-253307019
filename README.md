@@ -1,3 +1,4 @@
-Nama  : skbkdsb
-NIM   : 253307019
-Kelas : 2A
+** Idetitas Mahasiswa **
+-Nama  : skbkdsb
+-NIM   : 253307019
+-Kelas : 2A
