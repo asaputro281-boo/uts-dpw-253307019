@@ -170,12 +170,12 @@ thead th {
 tbody tr:nth-child(odd)  { background: #f7fafd; }
 tbody tr:nth-child(even) { background: #eef4fb; }
 
-tbody tr {
-  transition: background .2s;
+tbody tr{
+  transition:background.2s;
 }
 
 tbody tr:hover {
-  background: #dceefb;
+  background:#dceefb;
 }
 
 tbody td {
